@@ -27,7 +27,6 @@ python -m streamlit run app.py
 <img width="1536" height="754" alt="5" src="1.png" />
 <img width="1536" height="754" alt="6" src="2.png" />
 # Conclusion
-Conclusion:	In this activity, we analyzed how different factors such as movie genre, runtime, watching with/without a friends, and mood can influence a person’s decision to watch a movie. By collecting survey data and organizing it into a dataset, we were able to observe patterns that affect movie-watching behavior. This analysis helps demonstrate how data can be used to predict decisions based on specific conditions. Overall, the activity shows the importance of using data and attributes to understand preferences and make predictions.
+In this activity, we analyzed how different factors such as movie genre, runtime, watching with/without a friends, and mood can influence a person’s decision to watch a movie. By collecting survey data and organizing it into a dataset, we were able to observe patterns that affect movie-watching behavior. This analysis helps demonstrate how data can be used to predict decisions based on specific conditions. Overall, the activity shows the importance of using data and attributes to understand preferences and make predictions.
 
 # GROUP 15 (Navarra, Orbillo, Besto)
-
