@@ -6,7 +6,7 @@ Runtime: Short, Long
 Friends: With, Without Current 
 Mood: Happy, Tired, Sad
 # 1. Clone the Project
-git clone https://github.com/shan-bst/Movie-Decision-Predictor.git
+[git clone https://github.com/shan-bst/Movie-Decision-Predictor.git](https://github.com/shan-bst/Group15_Movie_Preferences_and_Viewing_Decisions_Survey.git)
 # 2. Install Requirements
 Install the necessary libraries (pandas and streamlit) using the requirements file:
 pip install -r requirements.txt
