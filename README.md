@@ -14,3 +14,30 @@ pip install -r requirements.txt
 Run this in terminal:
 python -m streamlit run app.py
 # Data Table
+# 🎬 Movie Viewing Predictor (Naive Bayes)
+
+This project uses a **Naive Bayes Classifier** to predict movie-watching decisions based on survey data. Built with Python and Streamlit.
+
+---
+
+### 📸 Project Gallery
+
+### # 1 - Survey Dataset
+<img width="1536" height="754" alt="1" src="Screenshot%202026-03-16%20123721.png" />
+
+### # 2 - Model Statistics
+<img width="1536" height="754" alt="2" src="Screenshot%202026-03-16%20123840.png" />
+
+### # 3 - Selection Interface
+<img width="1536" height="754" alt="3" src="Screenshot%202026-03-16%20123901.png" />
+
+### # 4 - Prediction Results & Math Breakdown
+<img width="1536" height="754" alt="4" src="Screenshot%202026-03-16%20124147.png" />
+
+---
+
+## 🚀 Setup & Execution
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/shan-bst/Movie-Decision-Predictor.git](https://github.com/shan-bst/Movie-Decision-Predictor.git)
